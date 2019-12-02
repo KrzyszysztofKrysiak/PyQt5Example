@@ -10,7 +10,7 @@ APP_DIR = os.path.dirname(os.path.realpath(__file__))
 DS = os.path.sep
 
 config = configparser.ConfigParser()
-
+# jkjk
 
 # Just a small function to write the file
 def write_file():
